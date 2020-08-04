@@ -1,6 +1,6 @@
 {
-  "name": "@latger/nuxtauth",
-  "version": "4.9.6",
+  "name": "latgernuxtauth",
+  "version": "4.9.7",
   "description": "Authentication module for Nuxt.js VERSION/latger",
   "license": "MIT",
   "contributors": [
