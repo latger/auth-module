@@ -1,7 +1,7 @@
 {
-  "name": "@nuxtjs/auth",
-  "version": "4.9.5",
-  "description": "Authentication module for Nuxt.js",
+  "name": "@latger/nuxtauth",
+  "version": "4.9.6",
+  "description": "Authentication module for Nuxt.js VERSION/latger",
   "license": "MIT",
   "contributors": [
     {
@@ -17,7 +17,7 @@
     }
   ],
   "main": "lib/module/index.js",
-  "repository": "nuxt-community/auth-module",
+  "repository": "latger/auth-module",
   "publishConfig": {
     "access": "public"
   },
